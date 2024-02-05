@@ -1,0 +1,67 @@
+@media (min-width: 768px) {
+    .container {
+      margin: 121px 0 0;
+      width: 691px;
+    }
+  }
+  
+  @media (min-width: 1440px) {
+    body {
+      align-items: center;
+    }
+  
+    .container {
+      width: 1110px;
+      justify-content: center;
+      flex-direction: row;
+      gap: 45px;
+      margin-bottom: 121px;
+    }
+  
+    .texts {
+      margin-top: 169px;
+    }
+  
+    .header {
+      font-size: 50px;
+      line-height: 55px;
+      text-align: start;
+      width: 525px;
+    }
+  
+    .paragraph {
+      text-align: start;
+      margin: 12px 0 0;
+    }
+  
+    .purple_text {
+      width: 540px;
+    }
+  
+    .purple {
+      width: 540px;
+      height: 60px;
+    }
+  
+    .purple h1 {
+      width: 316px;
+    }
+  
+    form {
+      gap: 20px;
+      margin: 0;
+      padding: 40px 0;
+    }
+  
+    input {
+      width: 438px;
+    }
+  
+    form > span {
+      margin: -16px 40px 0 0;
+    }
+  
+    button {
+      width: 460px;
+    }
+  }
